@@ -4,6 +4,8 @@ Dark navy theme · Bloomberg-terminal aesthetic
 """
 
 import json, pickle, warnings, os, base64
+from download_model import download_if_missing
+download_if_missing()
 import numpy as np
 import pandas as pd
 import streamlit as st
