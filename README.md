@@ -14,7 +14,7 @@
 
 <br/>
 
-<a href="https://hdfc-lstm-predictor.streamlit.app">
+<a href="https://hdfc-lstm-predictor-6gsrdp3df4xxjm4ferufcj.streamlit.app">
   <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Click%20Here-004C8F?style=for-the-badge&logoColor=white" alt="Live Demo"/>
 </a>
 &nbsp;
